@@ -29,15 +29,16 @@
 
 ## Ключевые артефакты
 - [User Story Map (Miro)](https://miro.com/app/board/uXjVJ3O9rIg=/?share_link_id=37983870787)  
-- [DFD контекстного уровня](https://github.com/ссылка...)
-- [DFD логического уровня](https://github.com/ссылка...)   
-- [ER-модель, приведённая к 3НФ](https://github.com/ссылка...)  
-- [Словарь данных (атрибуты ERD)](https://github.com/ссылка...)  
-- [Программа и методика испытаний (ПМИ) Stets Home](https://github.com/ссылка...)  
-- [Диаграмма структуры интерфейса (ISD)](https://github.com/ссылка...)
+- [DFD контекстного уровня](https://github.com/AikGyurdzhyan/Portfolio/blob/main/Stets%20Home/media/DFD%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20.drawio.svg)
+- [DFD логического уровня](https://github.com/AikGyurdzhyan/Portfolio/blob/main/Stets%20Home/media/DFD%20%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F.drawio.svg)   
+- [ER-модель, приведённая к 3НФ](https://github.com/AikGyurdzhyan/Portfolio/blob/main/Stets%20Home/media/ER-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20Crow%E2%80%99s%20foots.drawio.svg)  
+- [Словарь данных (атрибуты ERD)](https://github.com/AikGyurdzhyan/Portfolio/blob/main/Stets%20Home/media/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F.pdf)  
+- [Программа и методика испытаний (ПМИ) Stets Home](https://github.com/AikGyurdzhyan/Portfolio/blob/main/Stets%20Home/media/%D0%9F%D0%9C%D0%98%20Stets%20Home.pdf)  
+- [Диаграмма структуры интерфейса (ISD)](https://github.com/AikGyurdzhyan/Portfolio/blob/main/Stets%20Home/media/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0%20(ISD).drawio.svg)
 - [Интерактивный прототип в Figma)](https://www.figma.com/design/B7UseOHmap7Q0OYCp2gWxY/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-Stets-Home?node-id=4-581&t=L3LL3qaHPe5Xgdsl-1)
 ## Результат
 - Подготовлен полный пакет аналитической документации для приложения **Stets Home**  
 - Разработан интерактивный прототип пользовательского интерфейса  
 - Сформирована ПМИ для тестирования приложения  
+
 - Результаты готовы к передаче команде разработки и дальнейшей реализации
