@@ -33,8 +33,8 @@
 - При ошибках регистрации и входа пользователю отображаются подсказки для исправления.
 
 ## Ключевые артефакты
-- [ПМИ](https://github.com/boxkzn/portfolio_akimov_e/blob/main/capsula/media/%D0%9F%D0%9C%D0%98%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20%C2%AB%D0%9A%D0%B0%D0%BF%D1%81%D1%83%D0%BB%D0%B0%C2%BB.pdf)
-- [Руководство пользователя с иллюстрациями и пошаговыми инструкциями](https://github.com/boxkzn/portfolio_akimov_e/blob/main/capsula/media/%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20%C2%AB%D0%9A%D0%B0%D0%BF%D1%81%D1%83%D0%BB%D0%B0%C2%BB.pdf)
+- [ПМИ](https://github.com/AikGyurdzhyan/Portfolio/blob/main/Capsula/media/%D0%9F%D0%9C%D0%98%20-%20Capsula.pdf)
+- [Руководство пользователя с иллюстрациями и пошаговыми инструкциями](https://github.com/AikGyurdzhyan/Portfolio/blob/main/Capsula/media/%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%20-%20Capsula.pdf)
 
 ## Результат
 - Подготовлена документация для проведения испытаний исправленной версии сайта «Капсула».
@@ -73,9 +73,10 @@
 - Управление бронированиями (редактирование данных, отмена) должно быть доступно через личный кабинет.
 
 ## Ключевые артефакты
-- [Тестирование сайта «Капсула»](https://github.com/boxkzn/portfolio_akimov_e/blob/main/capsula/media/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20%C2%AB%D0%9A%D0%B0%D0%BF%D1%81%D1%83%D0%BB%D0%B0%C2%BB.docx.pdf)
+- [Тестирование сайта «Капсула»](https://github.com/AikGyurdzhyan/Portfolio/blob/main/Capsula/media/%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20-%20Capsula.pdf)
 
 ## Результат
 - Подготовлен полный план тестирования и проведено тестирование веб-сервиса «Капсула».
 - Выявлены критические и средние дефекты, требующие исправления до запуска продукта.
+
 - Результаты переданы команде разработки для устранения проблем и подготовки к релизу.
